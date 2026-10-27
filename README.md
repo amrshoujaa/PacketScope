@@ -84,6 +84,7 @@ Add screenshots of the application interface and packet details in the `screensh
 - Capture only traffic on networks and systems you own or are authorized to monitor.
 - Packet storage is limited in memory; PCAP exports contain the packets retained at export time.
 
+![Packet Scope Working](screenshots/packetsniffing.png)
 
 ## Author
 
